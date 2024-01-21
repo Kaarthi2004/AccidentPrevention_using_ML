@@ -7,4 +7,4 @@ This project imlements the following tasks in the project:
   2.Vehicle Speed Estimation
   3.Vechile Count
 
-![An output video of the YOLO Soeed Estimation Algorithm.](https://drive.google.com/file/d/1-6N9kD0TPRUlUi8Zk5bHbasIZc9W7qAW/view?usp=drive_link)
+The Google Drive Link of output of this project--->  [GDRIVE](https://drive.google.com/file/d/1-6N9kD0TPRUlUi8Zk5bHbasIZc9W7qAW/view?usp=drive_link).
